@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://mistakeltu.github.io/05_15_avocado_food/
 
 Design: [Avocado (main)](https://dribbble.com/shots/11182116-Food-delivery-service-dish-card/attachments/2786447?mode=media)
 
